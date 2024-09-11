@@ -1,5 +1,6 @@
 
-![ain_logo_no_background](https://github.com/user-attachments/assets/a2a0d476-9bb6-480b-bdee-161334643a6c)
+<img src="https://github.com/user-attachments/assets/a2a0d476-9bb6-480b-bdee-161334643a6c" alt="ain_logo" width="200"/>
+
 # **Ain | عين**  
 **Empowering Independence for the Visually Impaired**
 
