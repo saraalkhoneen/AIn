@@ -1,4 +1,3 @@
-
 <img src="https://github.com/user-attachments/assets/a2a0d476-9bb6-480b-bdee-161334643a6c" alt="ain_logo" width="150" style="float:left; margin-right: 20px;"/>
 
 # **Ain | عين**  
@@ -45,9 +44,8 @@ Ain combines state-of-the-art tools to create an accessible and reliable experie
 
 ## 🚀 How to Get Started  
 1. **Clone the Repository**:
-   ```bash
    git clone https://github.com/saraalkhoneen/2024-25_GP_4.git
-
+   
 2. **Open the Project** in **Xcode**.
 3. **Install Dependencies**: Make sure all required libraries are installed.
 4. **Connect** your **GoPro Hero 12** for real-time video.
@@ -91,4 +89,3 @@ Follow these steps to install and get Ain running in no time:
 
 ## 👥 Community & Contribution  
 We welcome collaboration! Feel free to fork the repo and suggest new features or improvements via **pull requests**.
-```
