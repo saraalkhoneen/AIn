@@ -11,6 +11,11 @@ Ain is your **personal assistant** designed to revolutionize daily life for indi
 
 ---
 
+## 🧠 Fun Fact  
+Did you know? **Ain** not only means **eye** in Arabic, but also contains the letters "AI," making it the **eye of AI**! It's a perfect fit for this assistive technology powered by artificial intelligence.
+
+---
+
 ## 🔧 Technologies  
 Ain combines state-of-the-art tools to create an accessible and reliable experience:
 
@@ -71,10 +76,4 @@ Follow these steps to install and get Ain running in no time:
 
 ## 👥 Community & Contribution  
 We welcome collaboration! Feel free to fork the repo and suggest new features or improvements via **pull requests**.
-
----
-
-## 🧠 Fun Fact  
-Did you know? **Ain** not only means **eye** in Arabic, but also contains the letters "AI," making it the **eye of AI**! It's a perfect fit for this assistive technology powered by artificial intelligence.
-
 
