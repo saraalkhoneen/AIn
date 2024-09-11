@@ -1,6 +1,6 @@
 
-
-# ![Ain Logo](file-R4KbRPdM8fsYQ9xTHoGKSEQF) **Ain | عين**  
+![ain_logo_no_background](https://github.com/user-attachments/assets/a2a0d476-9bb6-480b-bdee-161334643a6c)
+# **Ain | عين**  
 **Empowering Independence for the Visually Impaired**
 
 ---
