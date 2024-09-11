@@ -12,7 +12,7 @@ Ain is your **personal assistant** designed to revolutionize daily life for indi
 ---
 
 ## 🧠 Fun Fact  
-Did you know? **Ain** not only means **eye** in Arabic, but also contains the letters "AI," making it the **eye of AI**! It's a perfect fit for this assistive technology powered by artificial intelligence.
+Did you know? **Ain** not only means **eye** in Arabic, but also contains the letters *"AI"* making it the ***eye of AI*** ! It's a perfect fit for this assistive technology powered by artificial intelligence.
 
 ---
 
