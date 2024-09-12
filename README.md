@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/a2a0d476-9bb6-480b-bdee-161334643a6c" alt="ain_logo" width="200"/>
+<img src="https://github.com/user-attachments/assets/e7302119-406d-496a-87fd-3beb066b041b" alt="ain_logo" width="200"/>
 
 # **Ain | عين**  
 **Empowering Independence for the Visually Impaired**
